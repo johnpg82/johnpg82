@@ -37,7 +37,7 @@ Experienced software engineer and technical leader with extensive expertise in f
 
 - Led a team of 6 members of the publishing and development team.
 - Maintained and hosted 20+ websites in production, staging, and development environments.
-- Reduced annual operational costs by at least $80,000 within the first year as CTO while maintaining 99% uptime.
+- Reduced annual operational costs by at least $80,000 within the first year as CTO while maintaining 99.9% uptime.
 - Delegated tasks, wrote specifications, and contributed to coding and advancing projects.
 - Served as the primary contact for clients licensing Learning Management Software.
 - Engineered full-stack solutions including complex API development and integration.
