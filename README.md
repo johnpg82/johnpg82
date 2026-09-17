@@ -16,7 +16,7 @@ Denver, Colorado 80221
 
 ## Profile
 
-Software engineer and technical leader with 30+ years of hands-on experience architecting, scaling, and modernizing cloud-native, multi-tenant SaaS platforms. Senior-most technical authority for a market-leading e-learning ecosystem, and founder of an independent holding company building AI- and agent-driven products. Deep, current expertise in Cloudflare's edge platform (Workers, D1, R2, Durable Objects), API-first architecture, DevOps, and the data, identity, and control-plane foundations required for safe, autonomous systems.
+Software engineer and technical leader with 30+ years of hands-on experience architecting, scaling, and modernizing cloud-native, multi-tenant SaaS platforms. Founder of an independent holding company and creator of Habit Networks, a managed website platform powered by an in-browser AI agent. Senior-most technical authority for a market-leading e-learning ecosystem. Deep, current expertise in Cloudflare's edge platform (Workers, D1, R2, Durable Objects), API-first architecture, DevOps, and the data, identity, and control-plane foundations required for safe, autonomous systems.
 
 ---
 
@@ -47,13 +47,13 @@ Software engineer and technical leader with 30+ years of hands-on experience arc
 ## Professional Experience
 
 ### Founder & Principal Engineer
-**Forest of Knowledge Inc. / Habit Earth LLC**, Denver, CO *(Current)*
+**Forest of Knowledge Inc. · Habit Networks · Habit Earth LLC**, Denver, CO *(Current)*
 
-- Founder of Forest of Knowledge Inc., a holding company for a portfolio of software and product ventures, and Habit Earth LLC.
-- Architect and sole engineer behind the **Habit Networks agent platform** — a Cloudflare control-plane Worker with GitHub App integration that connects client repositories to an autonomous coding/ops agent, administered through a custom "Habit Admin" panel.
-- Designed and operate a **49-domain Cloudflare portfolio** with automated parking, redirect, and DNS management.
-- Building **NeuroGardens**, a sound-healing / vibroacoustic platform, including an AI video-generation tool that orchestrates KlingAI and OpenRouter to produce sequential clips with visual continuity.
-- Prototyped an **SMS AI agent device** on the Minimal Phone MP01, backed by a self-hosted SMS gateway and MCP server.
+- Founder of Forest of Knowledge Inc., a holding company for a portfolio of software and product ventures.
+- Creator of **Habit Networks** ([habitnetworks.com](https://www.habitnetworks.com/)) — a managed website platform that pairs design, build, and ongoing support with an in-browser **AI agent**: clients point out problems or describe ideas while browsing, and the agent captures screenshots, conversations, and change requests, drafts AI-assisted changes, and previews them for review before publishing.
+- Architected the platform end-to-end on **Cloudflare** (Workers, D1, R2, Durable Objects) with **GitHub App** integration linking client repositories to the agent, administered through a custom "Habit Admin" control-plane panel.
+- Designed and operate a **49-domain Cloudflare portfolio** with automated DNS, parking, and redirect management.
+- Ship and host a growing network of live sites spanning CME education, e-commerce, local directories, 3D home exploration, and audio apps (see Network Sites below).
 
 ### Chief Technology Officer
 **PRESENT e-Learning Systems**, Boca Raton, FL *(2015 - Present)*
@@ -83,30 +83,37 @@ Software engineer and technical leader with 30+ years of hands-on experience arc
 
 ## Selected Projects
 
-### Habit Networks — Agentic Developer Platform (Cloudflare)
+### Habit Networks — Managed Website Platform + In-Browser AI Agent (Cloudflare)
 
-- Control-plane Worker plus GitHub App that links client repositories to an autonomous agent for coding and operations, administered through a custom Habit Admin panel.
-
-### FamilyApp / "Family Hub" (Cloudflare Workers, AWS SES)
-
-- Family-coordination application built on Cloudflare Workers, with transactional email delivered via AWS SES.
+- Cloudflare-native platform combining website design/build, ongoing support, and an AI change-request agent that walks clients through their live pages, follows along in real time, and turns conversations and screenshots into previewed, publish-ready changes.
+- Control-plane Worker plus GitHub App links client repositories to the agent; managed through a custom Habit Admin panel with content, inquiry, event, and customer-information tools.
 
 ### NeuroGardens — AI Video & Vibroacoustic Platform
 
-- AI-driven video tool orchestrating KlingAI and OpenRouter to generate sequential clips with visual continuity, part of a broader sound-healing practitioner platform.
+- AI-driven video tool orchestrating KlingAI and OpenRouter to generate sequential clips with visual continuity, part of a broader sound-healing / vibroacoustic practitioner platform.
 
 ### Podiatry Multimedia AI Agent
 
-- Imported extensive multimedia content into an AI-driven platform enabling customers to interactively query and engage with podiatry educational content.
-- Enhanced engagement through conversational AI and advanced NLP for precise, relevant responses.
+- Imported extensive multimedia content into an AI-driven platform enabling customers to interactively query and engage with podiatry educational content, using conversational AI and advanced NLP for precise, relevant responses.
 
 ### Content Creation Automation Tool (AWS, OpenAI API)
 
 - Multimedia automation tool combining AWS cloud infrastructure, the OpenAI API, and FFMPEG to automate complex content workflows — prototyped and deployed within 24 hours.
 
-### Sweepless in Seattle (Cloudflare Worker)
+### SMS AI Agent Device (Minimal Phone MP01)
 
-- Civic-focused web application deployed as a Cloudflare Worker with a Git-based CI workflow.
+- Prototyped a purpose-built messaging device with a custom e-ink-optimized app, backed by a self-hosted SMS gateway and MCP server.
+
+---
+
+## Network Sites (Habit Networks)
+
+- **PRESENT Podiatry** — news, CME lectures, and conferences for the podiatry field.
+- **Habit Earth Homes** — 3D interactive exploration for natural / earthen home building.
+- **Adobe Ninja** — earth-building tool showcase.
+- **Habit.Earth** — local business discovery directory.
+- **FamilyApp / "Family Hub"** — family-coordination app on Cloudflare Workers with AWS SES email.
+- **Sweepless in Seattle** — civic-focused Cloudflare Worker with a Git-based CI workflow.
 
 ---
 
