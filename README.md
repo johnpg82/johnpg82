@@ -4,7 +4,7 @@
 
 **Principal Engineer · Platform & Edge Architect · AI / Agentic Systems**
 
-Denver, Colorado 80221 · [john@johngarland.net](mailto:john@johngarland.net) · [+1 317-937-6981](tel:+13179376981)
+Denver, Colorado 80212 · [john@johngarland.net](mailto:john@johngarland.net) · [+1 317-937-6981](tel:+13179376981)
 
 [LinkedIn](https://www.linkedin.com/in/johnpaulgarland/) · [GitHub](https://github.com/johnpg82) · [Portfolio](https://johngarland.net) · [Blog](https://blog.johngarland.net) · [Download PDF](./John_Paul_Garland_Resume.pdf)
 
