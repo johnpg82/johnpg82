@@ -1,18 +1,14 @@
-# RESUME
+# John Paul Garland
 
-## John Paul Garland
-
-![John Paul Garland profile picture](https://ugc.production.linktr.ee/93dbd847-9e7d-4e85-98ca-15d26c793d58_profile.jpeg?io=true&size=avatar-v3_0)
+<img src="https://ugc.production.linktr.ee/93dbd847-9e7d-4e85-98ca-15d26c793d58_profile.jpeg?io=true&size=avatar-v3_0" alt="John Paul Garland" width="120" align="right">
 
 **Principal Engineer · Platform & Edge Architect · AI / Agentic Systems**
 
-Denver, Colorado 80221
-[john@johngarland.net](mailto:john@johngarland.net)
-[+1-317-937-6981](tel:+13179376981)
-[LinkedIn](https://www.linkedin.com/in/johnpaulgarland/ "LinkedIn")
-[GitHub](https://github.com/johnpg82 "GitHub")
-[Portfolio](https://johngarland.net "Portfolio")
-[Blog](https://blog.johngarland.net "Blog")
+Denver, Colorado 80221 · [john@johngarland.net](mailto:john@johngarland.net) · [+1 317-937-6981](tel:+13179376981)
+
+[LinkedIn](https://www.linkedin.com/in/johnpaulgarland/) · [GitHub](https://github.com/johnpg82) · [Portfolio](https://johngarland.net) · [Blog](https://blog.johngarland.net) · [Download PDF](./John_Paul_Garland_Resume.pdf)
+
+---
 
 ## Profile
 
@@ -23,23 +19,23 @@ Software engineer and technical leader with 30+ years of hands-on experience arc
 ## Technical Skills
 
 - **Languages:** JavaScript/TypeScript, Python, PHP, Java, C#, HTML, CSS, Bash
-- **Edge & Serverless:** Cloudflare Workers, D1, R2, Durable Objects, KV, Cloudflare WAF, Pages
+- **Edge & Serverless:** Cloudflare Workers, D1, R2, Durable Objects, KV, Pages, Cloudflare WAF
 - **Frameworks & Runtimes:** Node.js, React, jQuery
-- **AI / Agentic:** Agentic system design, LLM orchestration, OpenRouter, OpenAI API, KlingAI, MCP (Model Context Protocol) servers, AI-assisted development
-- **Databases:** D1, MySQL, Redis, Postgres
+- **AI / Agentic:** Agentic system design, LLM orchestration, MCP (Model Context Protocol) servers, OpenAI API, OpenRouter, KlingAI, AI-assisted development
+- **Databases:** D1, MySQL, Postgres, Redis
 - **Cloud Platforms:** Cloudflare, AWS (incl. SES), Google Cloud, Heroku
 - **DevOps & CI/CD:** GitHub Actions, GitLab CI, Terraform, Git, GitHub App integrations
-- **Methodologies:** Agile, Scrum, Continuous Integration/Deployment, API-first design
+- **Methodologies:** Agile, Scrum, continuous integration/deployment, API-first design
 
 ---
 
 ## Core Strengths
 
-- Platform & distributed-systems architecture
+- Platform and distributed-systems architecture
 - Cloudflare-native, edge-first infrastructure
-- AI-assisted & agent-ready platform design
-- Identity, authentication & secure content delivery
-- DNS, PKI & certificate-aware systems
+- AI-assisted and agent-ready platform design
+- Identity, authentication, and secure content delivery
+- DNS, PKI, and certificate-aware systems
 - End-to-end ownership across DevOps, engineering, and delivery
 
 ---
@@ -47,34 +43,34 @@ Software engineer and technical leader with 30+ years of hands-on experience arc
 ## Professional Experience
 
 ### Founder & Principal Engineer
-**Forest of Knowledge Inc. · Habit Networks · Habit Earth LLC**, Denver, CO *(Current)*
+**Forest of Knowledge Inc. · Habit Networks · Habit Earth LLC** — Denver, CO *(current)*
 
-- Founder of Forest of Knowledge Inc., a holding company for a portfolio of software and product ventures.
-- Creator of **Habit Networks** ([habitnetworks.com](https://www.habitnetworks.com/)) — a managed website platform that pairs design, build, and ongoing support with an in-browser **AI agent**: clients point out problems or describe ideas while browsing, and the agent captures screenshots, conversations, and change requests, drafts AI-assisted changes, and previews them for review before publishing.
+- Founded Forest of Knowledge Inc., a holding company for a portfolio of software and product ventures.
+- Created **Habit Networks** ([habitnetworks.com](https://www.habitnetworks.com/)), a managed website platform that pairs design, build, and ongoing support with an in-browser **AI agent**: clients point out problems or describe ideas while browsing, and the agent captures screenshots, conversations, and change requests, drafts AI-assisted changes, and previews them for review before publishing.
 - Architected the platform end-to-end on **Cloudflare** (Workers, D1, R2, Durable Objects) with **GitHub App** integration linking client repositories to the agent, administered through a custom "Habit Admin" control-plane panel.
 - Designed and operate a **49-domain Cloudflare portfolio** with automated DNS, parking, and redirect management.
 - Ship and host a growing network of live sites spanning CME education, e-commerce, local directories, 3D home exploration, and audio apps (see Network Sites below).
 
 ### Chief Technology Officer
-**PRESENT e-Learning Systems**, Boca Raton, FL *(2015 - Present)*
+**PRESENT e-Learning Systems** — Boca Raton, FL *(2015 – present)*
 
-- Sole technical authority for the #1 provider of online continuing education in Podiatry (podiatry.com).
-- Led a 6-person publishing and development team; maintained and hosted 20+ websites across production, staging, and development environments.
+- Sole technical authority for the #1 provider of online continuing education in podiatry ([podiatry.com](https://www.podiatry.com/)).
+- Led a six-person publishing and development team; maintained and hosted 20+ websites across production, staging, and development environments.
 - Reduced annual operational costs by at least $80,000 within the first year as CTO while maintaining 99.9% uptime.
-- Migrated and hardened edge infrastructure on **Cloudflare** — Workers, WAF rules, and secure content delivery — alongside AWS hosting.
+- Migrated and hardened edge infrastructure on **Cloudflare** (Workers, WAF rules, secure content delivery) alongside AWS hosting.
 - Engineered full-stack, API-first solutions, including complex API development, integrations, and migrations.
 - Served as primary contact for clients licensing the Learning Management platform.
-- Streamlined operations with Agile and DevOps best practices, improving delivery timelines and system reliability.
+- Streamlined operations with Agile and DevOps practices, improving delivery timelines and system reliability.
 
 ### Senior Programmer
-**PRESENT e-Learning Systems**, Boca Raton, FL *(2010 - 2015)*
+**PRESENT e-Learning Systems** — Boca Raton, FL *(2010 – 2015)*
 
 - Lead developer responsible for software development initiatives.
 - Developed comprehensive APIs and full-stack solutions.
 - Improved system efficiency, scalability, and reliability.
 
 ### Junior Programmer
-**PRESENT e-Learning Systems**, Boca Raton, FL *(2006 - 2010)*
+**PRESENT e-Learning Systems** — Boca Raton, FL *(2006 – 2010)*
 
 - Collaborated closely with development teams on the Mentor LMS project.
 - Gained extensive experience in API and full-stack development.
@@ -94,11 +90,11 @@ Software engineer and technical leader with 30+ years of hands-on experience arc
 
 ### Podiatry Multimedia AI Agent
 
-- Imported extensive multimedia content into an AI-driven platform enabling customers to interactively query and engage with podiatry educational content, using conversational AI and advanced NLP for precise, relevant responses.
+- Imported an extensive multimedia library into an AI-driven platform that lets customers interactively query and engage with podiatry educational content, using conversational AI and NLP for precise, relevant responses.
 
 ### Content Creation Automation Tool (AWS, OpenAI API)
 
-- Multimedia automation tool combining AWS cloud infrastructure, the OpenAI API, and FFMPEG to automate complex content workflows — prototyped and deployed within 24 hours.
+- Multimedia automation tool combining AWS infrastructure, the OpenAI API, and FFmpeg to automate complex content workflows; prototyped and deployed within 24 hours.
 
 ### SMS AI Agent Device (Minimal Phone MP01)
 
@@ -119,12 +115,10 @@ Software engineer and technical leader with 30+ years of hands-on experience arc
 
 ## Education
 
-### Self-Directed Education
-
-- Extensive hands-on experience in software development, cloud technologies, and DevOps methodologies since 1994.
+- Self-directed: extensive hands-on experience in software development, cloud technologies, and DevOps methodologies since 1994.
 
 ---
 
 ## Personal Interests
 
-- Passionate about continuous learning, travel, meditation, and yoga — experiences that sharpen adaptability, problem-solving, and innovative thinking.
+- Continuous learning, travel, meditation, and yoga — experiences that sharpen adaptability, problem-solving, and innovative thinking.
